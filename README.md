@@ -20,15 +20,5 @@ P - Represents the single or double precision.
 M M - Represents the type of matrix.
 AAA - Represents the type of algorithm implemented.
 
-## Mesh Analysis
-The circuit we are using in the project is as follows :
-
-Let us assume the currents in the three mesh as I 1 , I 2 and I 3 as shown in
-the figure.
-By using the Kirchhoff’s Voltage Rule.
-we have the mesh equations as follows :
-- I 1 = 4 30 
-- (I 1 − I 2 )(2) = V 
-- (I 2 − I 1 )(2) + I 2 (j4) − 3V  = 0
-- I 3 = I 
-- 3V  + I 3 (−j2) = 0
+## Note : 
+For mesh analysis and other mathematical computations check the docs.pdf file.
