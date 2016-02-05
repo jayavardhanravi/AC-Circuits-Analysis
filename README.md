@@ -21,4 +21,5 @@ M M - Represents the type of matrix.
 AAA - Represents the type of algorithm implemented.
 
 ## Note : 
-For mesh analysis and other mathematical computations check the docs.pdf file.
+For mesh analysis and other mathematical computations check the SimpleRC Circuit Frequency Analysis.pdf
+ file.
